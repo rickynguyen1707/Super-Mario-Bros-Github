@@ -1,0 +1,5 @@
+sceneSetups:
+- path: F:/Unity/Hao or Bob parts/Super Mario Bros/Super Mario Bros/Assets/Scenes/Mario.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
